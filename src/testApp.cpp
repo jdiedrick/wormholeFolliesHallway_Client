@@ -86,7 +86,7 @@ void testApp::update(){
     }
     
     //synching video stuff. remove for hallway installation. we're synching rutt etra!
-	float p = currentMovie.getPosition();
+//	float p = currentMovie.getPosition();
     
     
 	//printf("%f\n",p);
@@ -103,12 +103,12 @@ void testApp::update(){
             //get ystep and rutt etra
             yStep = m.getArgAsInt32(0);
             drawRuttEtra = m.getArgAsInt32(1);
-			if (!started) {
-				started = true;
-				currentMovie.play();
-				// No need to loop, we loop if the master loops
-				currentMovie.setLoopState(OF_LOOP_NONE);
-			}
+//			if (!started) {
+//				started = true;
+//				currentMovie.play();
+//				// No need to loop, we loop if the master loops
+//				currentMovie.setLoopState(OF_LOOP_NONE);
+//			}
 		
             
             
