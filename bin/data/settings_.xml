@@ -1,0 +1,46 @@
+<settings>
+	<client1>
+		<address>128.122.151.176</address>
+		<port>12341</port>
+	</client1>
+	<client2>
+		<address>128.122.151.175</address>
+		<port>12342</port>
+	</client2>
+    
+    <client3>
+		<address>128.122.151.174</address>
+		<port>12343</port>
+	</client3>
+    
+    <client4>
+		<address>128.122.151.173</address>
+		<port>12344</port>
+	</client4>
+    
+    <client5>
+		<address>128.122.151.172</address>
+		<port>12345</port>
+	</client5>
+    
+    <client6>
+		<address>128.122.151.171</address>
+		<port>12346</port>
+	</client6>
+    
+    
+    <!--<movie>beach_trains_OFMiddle.mov</movie>-->
+	<movie>../../../movies/layout_test_h264_small.mp4</movie>
+    <!--<movie>../../../../../../../movies/rohann/rohann_m.mov</movie>-->
+	<howoften>100</howoften>
+	<dimensions>
+		<width>3840</width>
+		<height>1080</height>
+        <movieWidth>3840</movieWidth>
+        <movieHeight>1080</movieHeight>
+        <movieX>0</movieX>
+        <movieY>0</movieY>
+	</dimensions>
+	<go_fullscreen>true</go_fullscreen>
+    <loop>true</loop>
+</settings>

@@ -1,0 +1,17 @@
+<settings>
+	<port>12341</port>
+    <!--<movie>beach_trains_OFLeft.mov</movie>-->
+    <!--<movie>../../../movies/layout_test_h264_small.mp4</movie>-->
+    <!--<movie>IMG_3085.mov</movie>-->
+
+	<dimensions>
+		<width>3840</width>
+		<height>1080</height>
+        <movieWidth>3840</movieWidth>
+        <movieHeight>1080</movieHeight>
+        <movieX>0</movieX>
+        <movieY>0</movieY>
+	</dimensions>
+	<go_fullscreen>true</go_fullscreen>
+    <loop>true</loop>
+</settings>
